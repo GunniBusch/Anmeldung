@@ -7,10 +7,8 @@ notifications are set through discord web hook if a spot is found.
 ## Usage
 Open up the jupyter notebook, configure date preferences, chrome driver path and the discord webhook. Run the cell.
 
-## Requirements
-* Selenium 
+## Requirements 
 * Jupyter Notebook
-* Chromer Driver
 * Discord Webhook
 
 ## Limitations
